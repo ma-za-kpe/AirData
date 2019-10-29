@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88536744346",
+    "firebase_url": "https://airdata-cb11a.firebaseio.com",
+    "project_id": "airdata-cb11a",
+    "storage_bucket": "airdata-cb11a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88536744346:android:38e5b5fab3f51084",
+        "android_client_info": {
+          "package_name": "com.maku.airdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88536744346-f3vdqtt94siir20utabika36qck9atn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maku.airdata",
+            "certificate_hash": "697abd721b4f7c7a1e2411d8116700b15dd9fbd3"
+          }
+        },
+        {
+          "client_id": "88536744346-hmebq1b1coeu1oigmffsmbbtgfdunjpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp9jnJLxTGYEVjHT4hH1bU9XvtY1tXX4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88536744346-hmebq1b1coeu1oigmffsmbbtgfdunjpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

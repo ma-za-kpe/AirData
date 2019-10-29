@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AirData</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan_vouchers">Take clear photo</string>
+    <string name="load_airtime">Load Airtime</string>
+    <string name="send_to">Sending to...</string>
+</resources>
